@@ -1,1 +1,4 @@
-this is the file made
+this is more file[2~
+:wq
+
+exit
